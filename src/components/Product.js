@@ -9,10 +9,11 @@ const Product = () => {
             
 				<div>
               
-<div class="newbar1">
+                <div class="newbar1">
 <div class="first-column1">
-<p class="newbar1a" >Measuring is the first step in Diversity and
-inclusion strategy</p>
+<p class="newbar1a" >Measuring is the first
+                       step in Diversity and
+                       inclusion strategy</p>
 <p class="newbar1b"> ProgressData is your third hand party that provide secure legal Measurments 
 and tracking for diversity & inclusion,Partity reports and paygap reports<br></br><br></br>
 Our measurments are based on research, meta studies providing a zero point.
